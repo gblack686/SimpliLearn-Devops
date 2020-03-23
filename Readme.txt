@@ -1,4 +1,2 @@
-Testing Webhook Trigger test4
-Some more text
-
+Testing Webhook Trigger test
 
