@@ -1,2 +1,2 @@
-adding some text 
 testfile
+changes to be rolled back
